@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/991837424139382835/1003905900794359858/VideoToGif_GIF.gif">
+<img src="https://media.discordapp.net/attachments/991836922416734291/1054951129198362664/ashly.gif">
 </p>
 <p align="center">
     ╚═════════════⛧═══════════════════+⋅ ⋅✟⋅ ⋅+════════════════════⛧═════════════╝
