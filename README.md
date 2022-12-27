@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**bopyy/bopyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">  
+<img src="https://media.discordapp.net/attachments/991837424139382835/1003905900794359858/VideoToGif_GIF.gif">
+</p>
+<p align="center">
+    ╚═════════════⛧═══════════════════+⋅ ⋅✟⋅ ⋅+════════════════════⛧═════════════╝
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=federa1&color=grey">
+</p>
+<p align="center">
+Currently Listening to Music
+<p align="center">
+    <a href="https://federal.federa1.repl.co">دوكسبين</a>
