@@ -10,4 +10,4 @@
 <p align="center">
 Currently Listening to Music
 <p align="center">
-    <a href="http://bopy.ml">دوكسبين</a>
+    <a href="http://bopy.ml">アシュリー</a>
