@@ -7,10 +7,6 @@
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/999551463363719238.png"/>
 </p>
-<p align="center">
-Currently Listening to Music
-<p align="center">
-    <a href="http://bopy.ml">アシュリー</a>
 <div align="center">
     
 ![Bopy's stats](https://github-readme-stats.vercel.app/api?username=bopyy&count_private=true&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bopyy&show_icons=true&theme=radical)
