@@ -11,8 +11,8 @@
 Currently Listening to Music
 <p align="center">
     <a href="http://bopy.ml">アシュリー</a>
-- These Are My Stats & Top Langs
+<p align="center">
 
-![HertzTool's stats](https://github-readme-stats.vercel.app/api?username=HertzTools&count_private=true&show_icons=true&theme=radical)
+![bopy's stats](https://github-readme-stats.vercel.app/api?username=bopyy&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HertzTools&show_icons=true&theme=radical)
