@@ -7,8 +7,12 @@
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/999551463363719238.png"/>
 </p>
-![HertzTool's stats](https://github-readme-stats.vercel.app/api?username=HertzTools&count_private=true&show_icons=true&theme=radical)
 <p align="center">
 Currently Listening to Music
 <p align="center">
     <a href="http://bopy.ml">アシュリー</a>
+- These Are My Stats & Top Langs
+
+![HertzTool's stats](https://github-readme-stats.vercel.app/api?username=HertzTools&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HertzTools&show_icons=true&theme=radical)
