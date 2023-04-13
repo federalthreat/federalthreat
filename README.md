@@ -7,6 +7,7 @@
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/999551463363719238.png"/>
 </p>
+![HertzTool's stats](https://github-readme-stats.vercel.app/api?username=HertzTools&count_private=true&show_icons=true&theme=radical)
 <p align="center">
 Currently Listening to Music
 <p align="center">
